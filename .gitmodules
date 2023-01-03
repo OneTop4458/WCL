@@ -1,0 +1,3 @@
+[submodule "3dparty/poco"]
+	path = 3dparty/poco
+	url = https://github.com/pocoproject/poco
